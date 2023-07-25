@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * char_handler - Entry point
+ * char_handler - function Entry point
  * Description: printing char
  * @arg: pointer to arguments
  * @counter: Integer
